@@ -701,7 +701,7 @@
         <!--Welcome-->
         <scene sceneID="qLf-9n-dGR">
             <objects>
-                <viewController title="Welcome" id="Rmf-kI-htE" customClass="HomeViewController" customModule="Amazon_Web_Scrapper" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController title="Welcome" id="Rmf-kI-htE" customClass="HomeViewController" customModule="Amazon_Web_Scraper_Tool" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" id="iJW-9h-DB0">
                         <rect key="frame" x="0.0" y="0.0" width="720" height="519"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -779,7 +779,7 @@
         <!--Setup View Controller-->
         <scene sceneID="agS-EB-Y3e">
             <objects>
-                <viewController id="hQ8-E2-Vqj" customClass="SetupViewController" customModule="Amazon_Web_Scrapper" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="hQ8-E2-Vqj" customClass="SetupViewController" customModule="Amazon_Web_Scraper_Tool" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" id="TVb-ff-yyq">
                         <rect key="frame" x="0.0" y="0.0" width="684" height="448"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -1002,7 +1002,7 @@
         <!--View Controller-->
         <scene sceneID="2CX-r2-H4J">
             <objects>
-                <viewController id="D8q-7n-sms" customClass="ViewController" customModule="Amazon_Web_Scrapper" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="D8q-7n-sms" customClass="ViewController" customModule="Amazon_Web_Scraper_Tool" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" autoresizesSubviews="NO" id="3uC-hV-7jf">
                         <rect key="frame" x="0.0" y="0.0" width="1007" height="762"/>
                         <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
